@@ -1,2 +1,2 @@
 # GarfsgAboutCodeBlog
-Code samples from my blog
+Code samples from blog www.garfsgaboutcode.com
