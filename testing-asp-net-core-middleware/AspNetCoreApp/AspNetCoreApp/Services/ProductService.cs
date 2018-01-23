@@ -4,7 +4,7 @@
     {
         public bool DoesLoggedUserHaveAccessForProduct(int productId)
         {
-            return productId > 10;
+            return productId > 2;
         }
     }
 }
